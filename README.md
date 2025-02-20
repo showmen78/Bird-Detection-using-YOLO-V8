@@ -3,7 +3,8 @@
 ## Overview
 This project utilizes the YOLO V8 object detection model to identify birds in video footage. The system processes video frames in real-time, detects birds, highlights them with bounding boxes, and saves images when birds are detected.
 ![Bird1](results/1.PNG)
-
+![Bird2](results/2.PNG)
+![Bird3](results/3.PNG)
 ## Features
 - Real-time bird detection using YOLO V8
 - Bounding boxes drawn around detected birds
